@@ -2,7 +2,7 @@
   "name": "samyakphoto",
   "compatibility_date": "2025-07-04",
   "assets": {
-    "directory": "."
+    "directory": "./public"
   }
 }
 
