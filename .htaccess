@@ -1,3 +1,4 @@
+Redirect 301 /test-htaccess https://www.google.com
 RewriteEngine On
 
 # Redirect .html URLs to extensionless URLs (301 Permanent)
