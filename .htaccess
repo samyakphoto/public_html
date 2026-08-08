@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Redirect .html URLs to extensionless URLs (301 Permanent)
+RewriteCond %{THE_REQUEST} \.html [NC]
+RewriteRule ^(.+)\.html$ /$1 [R=301,L]
