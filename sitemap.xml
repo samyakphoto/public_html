@@ -1,327 +1,453 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.samyakkaninde.com/about.html</loc>
+    <loc>https://samyakkaninde.com/</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/alleppey.html</loc>
+    <loc>https://samyakkaninde.com/about</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/alleppey2.html</loc>
+    <loc>https://samyakkaninde.com/alleppey</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/alleppey3.html</loc>
+    <loc>https://samyakkaninde.com/alleppey2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/alleppey4.html</loc>
+    <loc>https://samyakkaninde.com/alleppey3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bandipur.html</loc>
+    <loc>https://samyakkaninde.com/alleppey4</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bharatpur.html</loc>
+    <loc>https://samyakkaninde.com/bandipur</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bharatpurtrip.html</loc>
+    <loc>https://samyakkaninde.com/bharatpur</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bhutan_birds.html</loc>
+    <loc>https://samyakkaninde.com/bharatpurtrip</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bhutan.html</loc>
+    <loc>https://samyakkaninde.com/bhutan</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bhutan2.html</loc>
+    <loc>https://samyakkaninde.com/bhutan2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bhutan3.html</loc>
+    <loc>https://samyakkaninde.com/bhutan3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/bird_poaching.html</loc>
+    <loc>https://samyakkaninde.com/bhutan_birds</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/birds_of_pune.html</loc>
+    <loc>https://samyakkaninde.com/bird_poaching</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/birds_of_pune2.html</loc>
+    <loc>https://samyakkaninde.com/birds</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/birds_of_pune3.html</loc>
+    <loc>https://samyakkaninde.com/birds2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/birds_of_pune4.html</loc>
+    <loc>https://samyakkaninde.com/birds_of_pune</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/birds.html</loc>
+    <loc>https://samyakkaninde.com/birds_of_pune2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/birds2.html</loc>
+    <loc>https://samyakkaninde.com/birds_of_pune3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/chennai_sangamam.html</loc>
+    <loc>https://samyakkaninde.com/birds_of_pune4</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/corbett.html</loc>
+    <loc>https://samyakkaninde.com/chennai_sangamam</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/corbettphotographytrip.html</loc>
+    <loc>https://samyakkaninde.com/corbett</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/dewdrops.html</loc>
+    <loc>https://samyakkaninde.com/corbettphotographytrip</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/events.html</loc>
+    <loc>https://samyakkaninde.com/dewdrops</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/fineartprints.html</loc>
+    <loc>https://samyakkaninde.com/events</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/firefly.html</loc>
+    <loc>https://samyakkaninde.com/fineartprints</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/flamingo.html</loc>
+    <loc>https://samyakkaninde.com/firefly</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/ghnp.html</loc>
+    <loc>https://samyakkaninde.com/flamingo</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/hemis.html</loc>
+    <loc>https://samyakkaninde.com/ghnp</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/himalay-fauna.html</loc>
+    <loc>https://samyakkaninde.com/hemis</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/himalay-landscapes.html</loc>
+    <loc>https://samyakkaninde.com/himalay-fauna</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/himalay-landscapes2.html</loc>
+    <loc>https://samyakkaninde.com/himalay-landscapes</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/himalay-landscapes3.html</loc>
+    <loc>https://samyakkaninde.com/himalay-landscapes2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/himalay-landscapes4.html</loc>
+    <loc>https://samyakkaninde.com/himalay-landscapes3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/himalaya.html</loc>
+    <loc>https://samyakkaninde.com/himalay-landscapes4</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/</loc>
+    <loc>https://samyakkaninde.com/himalaya</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/indian_eagle_owl.html</loc>
+    <loc>https://samyakkaninde.com/indian_eagle_owl</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/jallikattu.html</loc>
+    <loc>https://samyakkaninde.com/jallikattu</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/jallikattu2.html</loc>
+    <loc>https://samyakkaninde.com/jallikattu2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/jallikattu3.html</loc>
+    <loc>https://samyakkaninde.com/jallikattu3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/jallikattu4.html</loc>
+    <loc>https://samyakkaninde.com/jallikattu4</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kaas_2013.html</loc>
+    <loc>https://samyakkaninde.com/kaas</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kaas.html</loc>
+    <loc>https://samyakkaninde.com/kaas2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kaas2.html</loc>
+    <loc>https://samyakkaninde.com/kaas_2013</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kabini.html</loc>
+    <loc>https://samyakkaninde.com/kabini</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kabini2.html</loc>
+    <loc>https://samyakkaninde.com/kabini2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kabini3.html</loc>
+    <loc>https://samyakkaninde.com/kabini3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kaziranga.html</loc>
+    <loc>https://samyakkaninde.com/kaziranga</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kaziranga2.html</loc>
+    <loc>https://samyakkaninde.com/kaziranga2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kaziranga3.html</loc>
+    <loc>https://samyakkaninde.com/kaziranga3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/kids.html</loc>
+    <loc>https://samyakkaninde.com/kids</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/landscapes_old.html</loc>
+    <loc>https://samyakkaninde.com/landscapes</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/landscapes.html</loc>
+    <loc>https://samyakkaninde.com/landscapes2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/landscapes2.html</loc>
+    <loc>https://samyakkaninde.com/macros</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/macros.html</loc>
+    <loc>https://samyakkaninde.com/macros2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/macros2.html</loc>
+    <loc>https://samyakkaninde.com/macros3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/macros3.html</loc>
+    <loc>https://samyakkaninde.com/nature</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/nature_old.html</loc>
+    <loc>https://samyakkaninde.com/nature2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/nature.html</loc>
+    <loc>https://samyakkaninde.com/orb_weaver_spider</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/nature2.html</loc>
+    <loc>https://samyakkaninde.com/pakke</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/orb_weaver_spider.html</loc>
+    <loc>https://samyakkaninde.com/pakke2</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/pakke.html</loc>
+    <loc>https://samyakkaninde.com/pakke3</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/pakke2.html</loc>
+    <loc>https://samyakkaninde.com/pakke4</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/pakke3.html</loc>
+    <loc>https://samyakkaninde.com/photo-stories</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/pakke4.html</loc>
+    <loc>https://samyakkaninde.com/phototours</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/photo-stories.html</loc>
+    <loc>https://samyakkaninde.com/portfolio</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/phototours.html</loc>
+    <loc>https://samyakkaninde.com/snowleopard</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/portfo.html</loc>
+    <loc>https://samyakkaninde.com/snowleopard_trip</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/portfolio-old.html</loc>
+    <loc>https://samyakkaninde.com/south_india</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/portfolio.html</loc>
+    <loc>https://samyakkaninde.com/spider</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/portfolio1.html</loc>
+    <loc>https://samyakkaninde.com/spiti_valley</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/readme.html</loc>
+    <loc>https://samyakkaninde.com/tirunelveli</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/snowleopard_trip.html</loc>
+    <loc>https://samyakkaninde.com/trip-reports</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/snowleopard.html</loc>
+    <loc>https://samyakkaninde.com/vernal_hanging_parrot</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.samyakkaninde.com/south_india.html</loc>
+    <loc>https://samyakkaninde.com/wildlife</loc>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.samyakkaninde.com/spider.html</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.samyakkaninde.com/spiti_valley.html</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.samyakkaninde.com/tirunelveli.html</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.samyakkaninde.com/trip-reports.html</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.samyakkaninde.com/vernal_hanging_parrot.html</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://www.samyakkaninde.com/wildlife.html</loc>
-    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
